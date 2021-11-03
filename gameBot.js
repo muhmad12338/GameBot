@@ -71,4 +71,4 @@ client.on('message', (message) => {
 });
 
 client.mongoose.init();
-client.login(token);
+client.login(ODU5NzgzMzg0NjIzNjExOTA0.YNxtrA.gTUf0TpcKjPJDUTLHLN1pUin66E);
